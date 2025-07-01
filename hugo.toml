@@ -1,0 +1,4 @@
+baseURL = 'https://blog.albertcui.dev/'
+languageCode = 'en-us'
+title = 'Albs Blog'
+theme = 'bearblog'
